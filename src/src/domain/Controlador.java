@@ -1,4 +1,4 @@
-package encapsulamentoguanabara;
+package domain;
 
 public interface Controlador {
     public abstract void ligar();

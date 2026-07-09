@@ -1,4 +1,4 @@
-package encapsulamentoguanabara;
+package domain;
 
 public class ControleRemoto implements Controlador {
     //Atributos
